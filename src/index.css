@@ -66,3 +66,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.cart{
+  border:2px solid #000;
+  margin-bottom:50px;
+  padding:20px;
+  background-color:#b5b7b8;
+}
